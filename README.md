@@ -1,6 +1,6 @@
 # 📝 Next.js CRUD
 
-This project is a basic CRUD for a warehouse that allows you to enter products, delete them, edit them and list them, created with Next.js.
+This project is a basic CRUD for a store that allows you to enter products, delete them, edit them and list them, created with Next.js.
 
 
 ### 🚀 Getting Started
